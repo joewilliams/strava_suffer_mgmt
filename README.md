@@ -41,7 +41,7 @@ Look in the examples dir for ... examples.
 * nokogiri
 * gnuplot
 
-#### Usage
+### Usage
 
 First edit the config file using your strava user id and desired start date
 
