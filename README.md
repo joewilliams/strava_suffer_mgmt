@@ -56,7 +56,7 @@ After you run it once, you can run it again to plot the data you collected the l
     $ ruby strava_suffer_mgmt.rb ./suffer_mgmt_data_1365834217.json
 
 
-## license
+## License
 
 Copyright 2013, Joe Williams <joe@joetify.com>
 
