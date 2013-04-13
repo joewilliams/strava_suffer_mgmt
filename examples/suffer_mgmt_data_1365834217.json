@@ -1,0 +1,1541 @@
+[
+  {
+    "startDateLocal": "2012-07-28T10:06:06Z",
+    "ctl": 222.0,
+    "atl": 222.0,
+    "id": 15171785,
+    "name": "East Side Death March",
+    "tsb": 0.0,
+    "sufferScore": 222
+  },
+  {
+    "startDateLocal": "2012-07-29T16:48:51Z",
+    "ctl": 125.1,
+    "atl": 103.25,
+    "id": 15419305,
+    "name": "Colonnade Bike Practice",
+    "tsb": 21.85,
+    "sufferScore": 32
+  },
+  {
+    "startDateLocal": "2012-08-01T06:26:18Z",
+    "ctl": 110.36,
+    "atl": 103.0,
+    "id": 15898419,
+    "name": "CBS Ride",
+    "tsb": 7.36,
+    "sufferScore": 79
+  },
+  {
+    "startDateLocal": "2012-08-02T17:22:02Z",
+    "ctl": 87.72,
+    "atl": 73.0,
+    "id": 16529239,
+    "name": "Easy Ride",
+    "tsb": 14.72,
+    "sufferScore": 25
+  },
+  {
+    "startDateLocal": "2012-08-03T18:44:21Z",
+    "ctl": 73.88,
+    "atl": 61.0,
+    "id": 16529231,
+    "name": "Woodland Park Bike Practice",
+    "tsb": 12.88,
+    "sufferScore": 19
+  },
+  {
+    "startDateLocal": "2012-08-04T11:39:23Z",
+    "ctl": 66.24,
+    "atl": 57.5,
+    "id": 16529249,
+    "name": "Perkins Loop",
+    "tsb": 8.74000000000001,
+    "sufferScore": 29
+  },
+  {
+    "startDateLocal": "2012-08-05T10:40:15Z",
+    "ctl": 98.38,
+    "atl": 137.25,
+    "id": 16791829,
+    "name": "Tiger Mtn Bike Practice",
+    "tsb": -38.87,
+    "sufferScore": 264
+  },
+  {
+    "startDateLocal": "2012-08-08T06:25:15Z",
+    "ctl": 93.76,
+    "atl": 76.75,
+    "id": 17290001,
+    "name": "CBS Ride",
+    "tsb": 17.01,
+    "sufferScore": 82
+  },
+  {
+    "startDateLocal": "2012-08-09T17:39:20Z",
+    "ctl": 82.52,
+    "atl": 56.5,
+    "id": 17938967,
+    "name": "Easy Ride",
+    "tsb": 26.02,
+    "sufferScore": 10
+  },
+  {
+    "startDateLocal": "2012-08-10T19:18:00Z",
+    "ctl": 75.7,
+    "atl": 50.25,
+    "id": 17938985,
+    "name": "Woodland Park Bike Practice",
+    "tsb": 25.45,
+    "sufferScore": 12
+  },
+  {
+    "startDateLocal": "2012-08-11T09:52:37Z",
+    "ctl": 90.22,
+    "atl": 115.0,
+    "id": 17939045,
+    "name": "Capitol Forest Classic",
+    "tsb": -24.78,
+    "sufferScore": 199
+  },
+  {
+    "startDateLocal": "2012-08-12T12:53:11Z",
+    "ctl": 81.84,
+    "atl": 72.25,
+    "id": 18176771,
+    "name": "Easy Ride",
+    "tsb": 9.59,
+    "sufferScore": 25
+  },
+  {
+    "startDateLocal": "2012-08-15T17:01:16Z",
+    "ctl": 83.02,
+    "atl": 93.0,
+    "id": 18672765,
+    "name": "MFG Pre-Season Cross #1",
+    "tsb": -9.98,
+    "sufferScore": 84
+  },
+  {
+    "startDateLocal": "2012-08-16T21:10:17Z",
+    "ctl": 75.64,
+    "atl": 47.25,
+    "id": 18866219,
+    "name": "Easy Ride",
+    "tsb": 28.39,
+    "sufferScore": 9
+  },
+  {
+    "startDateLocal": "2012-08-17T17:24:13Z",
+    "ctl": 73.04,
+    "atl": 45.5,
+    "id": 18866220,
+    "name": "WTF @ Shilshole",
+    "tsb": 27.54,
+    "sufferScore": 26
+  },
+  {
+    "startDateLocal": "2012-08-18T14:05:13Z",
+    "ctl": 76.72,
+    "atl": 77.5,
+    "id": 18983027,
+    "name": "Bend Bike Practice",
+    "tsb": -0.780000000000001,
+    "sufferScore": 112
+  },
+  {
+    "startDateLocal": "2012-08-19T09:08:53Z",
+    "ctl": 75.98,
+    "atl": 75.0,
+    "id": 19063106,
+    "name": "Bend Bike Practice",
+    "tsb": 0.980000000000004,
+    "sufferScore": 75
+  },
+  {
+    "startDateLocal": "2012-08-22T17:49:24Z",
+    "ctl": 74.44,
+    "atl": 52.25,
+    "id": 19545163,
+    "name": "MFG Pre-Season Cross #2",
+    "tsb": 22.19,
+    "sufferScore": 47
+  },
+  {
+    "startDateLocal": "2012-08-23T16:30:13Z",
+    "ctl": 71.16,
+    "atl": 48.0,
+    "id": 19545162,
+    "name": "Dad Ride",
+    "tsb": 23.16,
+    "sufferScore": 30
+  },
+  {
+    "startDateLocal": "2012-08-24T17:20:56Z",
+    "ctl": 69.0,
+    "atl": 38.75,
+    "id": 19731987,
+    "name": "Dad Ride",
+    "tsb": 30.25,
+    "sufferScore": 20
+  },
+  {
+    "startDateLocal": "2012-08-25T08:30:03Z",
+    "ctl": 84.34,
+    "atl": 138.75,
+    "id": 19732017,
+    "name": "NW Epic Series - Capitol Forest",
+    "tsb": -54.41,
+    "sufferScore": 297
+  },
+  {
+    "startDateLocal": "2012-08-26T14:04:59Z",
+    "ctl": 78.28,
+    "atl": 77.5,
+    "id": 19857769,
+    "name": "Mercer Island Loop",
+    "tsb": 0.780000000000001,
+    "sufferScore": 43
+  },
+  {
+    "startDateLocal": "2012-08-29T17:04:39Z",
+    "ctl": 77.5,
+    "atl": 73.25,
+    "id": 20230983,
+    "name": "MFG Pre-Season Cross #3",
+    "tsb": 4.25,
+    "sufferScore": 53
+  },
+  {
+    "startDateLocal": "2012-08-30T17:20:14Z",
+    "ctl": 73.88,
+    "atl": 58.75,
+    "id": 20420399,
+    "name": "Easy Ride",
+    "tsb": 15.13,
+    "sufferScore": 19
+  },
+  {
+    "startDateLocal": "2012-08-31T17:06:25Z",
+    "ctl": 72.24,
+    "atl": 62.0,
+    "id": 20420402,
+    "name": "Easy Ride",
+    "tsb": 10.24,
+    "sufferScore": 35
+  },
+  {
+    "startDateLocal": "2012-09-01T11:08:51Z",
+    "ctl": 81.7,
+    "atl": 126.25,
+    "id": 20536306,
+    "name": "Sun Top / Corral Pass Bike Practice",
+    "tsb": -44.55,
+    "sufferScore": 214
+  },
+  {
+    "startDateLocal": "2012-09-02T14:46:06Z",
+    "ctl": 75.98,
+    "atl": 80.0,
+    "id": 20660844,
+    "name": "Perkins Loop",
+    "tsb": -4.02000000000001,
+    "sufferScore": 26
+  },
+  {
+    "startDateLocal": "2012-09-03T11:00:53Z",
+    "ctl": 75.42,
+    "atl": 58.25,
+    "id": 20769483,
+    "name": "Black Diamond Bike Practice",
+    "tsb": 17.17,
+    "sufferScore": 47
+  },
+  {
+    "startDateLocal": "2012-09-04T16:18:31Z",
+    "ctl": 73.16,
+    "atl": 53.0,
+    "id": 20947551,
+    "name": "West Seattle Loop",
+    "tsb": 20.16,
+    "sufferScore": 32
+  },
+  {
+    "startDateLocal": "2012-09-05T07:19:28Z",
+    "ctl": 72.38,
+    "atl": 54.75,
+    "id": 20947544,
+    "name": "Abbv. Five Hills Ride",
+    "tsb": 17.63,
+    "sufferScore": 42
+  },
+  {
+    "startDateLocal": "2012-09-07T19:04:23Z",
+    "ctl": 69.92,
+    "atl": 48.5,
+    "id": 21296258,
+    "name": "Picking the wife up at work",
+    "tsb": 21.42,
+    "sufferScore": 17
+  },
+  {
+    "startDateLocal": "2012-09-08T10:47:22Z",
+    "ctl": 72.14,
+    "atl": 68.5,
+    "id": 21296268,
+    "name": "Tiger Mtn Bike Practice",
+    "tsb": 3.64,
+    "sufferScore": 79
+  },
+  {
+    "startDateLocal": "2012-09-09T13:45:42Z",
+    "ctl": 68.76,
+    "atl": 28.25,
+    "id": 21453685,
+    "name": "MFG CX #1 Warm-up",
+    "tsb": 40.51,
+    "sufferScore": 8
+  },
+  {
+    "startDateLocal": "2012-09-09T14:35:06Z",
+    "ctl": 70.3,
+    "atl": 54.25,
+    "id": 21453687,
+    "name": "MFG CX #1",
+    "tsb": 16.05,
+    "sufferScore": 85
+  },
+  {
+    "startDateLocal": "2012-09-11T17:28:27Z",
+    "ctl": 68.1,
+    "atl": 36.75,
+    "id": 21780884,
+    "name": "Easy Ride",
+    "tsb": 31.35,
+    "sufferScore": 24
+  },
+  {
+    "startDateLocal": "2012-09-12T15:10:25Z",
+    "ctl": 67.5,
+    "atl": 42.25,
+    "id": 21780886,
+    "name": "Bend Bike Practice",
+    "tsb": 25.25,
+    "sufferScore": 43
+  },
+  {
+    "startDateLocal": "2012-09-13T12:04:52Z",
+    "ctl": 66.44,
+    "atl": 41.25,
+    "id": 21868015,
+    "name": "Bend Bike Practice",
+    "tsb": 25.19,
+    "sufferScore": 39
+  },
+  {
+    "startDateLocal": "2012-09-14T15:11:02Z",
+    "ctl": 65.0,
+    "atl": 35.5,
+    "id": 21962805,
+    "name": "Rolling around Bend",
+    "tsb": 29.5,
+    "sufferScore": 16
+  },
+  {
+    "startDateLocal": "2012-09-15T09:14:30Z",
+    "ctl": 76.88,
+    "atl": 135.25,
+    "id": 22080390,
+    "name": "2012 Marathon Nats",
+    "tsb": -58.37,
+    "sufferScore": 316
+  },
+  {
+    "startDateLocal": "2012-09-17T17:31:31Z",
+    "ctl": 70.08,
+    "atl": 64.75,
+    "id": 22553607,
+    "name": "A Trip to UPS",
+    "tsb": 5.33,
+    "sufferScore": 25
+  },
+  {
+    "startDateLocal": "2012-09-18T18:48:40Z",
+    "ctl": 68.96,
+    "atl": 55.5,
+    "id": 22553605,
+    "name": "Woodland Park Bike Practice",
+    "tsb": 13.46,
+    "sufferScore": 18
+  },
+  {
+    "startDateLocal": "2012-09-22T17:10:27Z",
+    "ctl": 68.2,
+    "atl": 59.0,
+    "id": 22968035,
+    "name": "Woodland Park / Colonnade Bike Practice",
+    "tsb": 9.2,
+    "sufferScore": 29
+  },
+  {
+    "startDateLocal": "2012-09-23T11:40:03Z",
+    "ctl": 68.54,
+    "atl": 98.25,
+    "id": 22968058,
+    "name": "MFG CX #2 - Ride / Race / Ride",
+    "tsb": -29.71,
+    "sufferScore": 144
+  },
+  {
+    "startDateLocal": "2012-09-25T07:45:01Z",
+    "ctl": 66.6,
+    "atl": 75.5,
+    "id": 23118246,
+    "name": "Abbv. MASH SF Ride",
+    "tsb": -8.90000000000001,
+    "sufferScore": 47
+  },
+  {
+    "startDateLocal": "2012-09-26T06:23:29Z",
+    "ctl": 66.8,
+    "atl": 81.75,
+    "id": 23213869,
+    "name": "SF Ride",
+    "tsb": -14.95,
+    "sufferScore": 57
+  },
+  {
+    "startDateLocal": "2012-09-29T14:23:54Z",
+    "ctl": 67.82,
+    "atl": 55.25,
+    "id": 23531554,
+    "name": "Black Diamond Bike Practice",
+    "tsb": 12.57,
+    "sufferScore": 59
+  },
+  {
+    "startDateLocal": "2012-09-30T13:59:13Z",
+    "ctl": 70.64,
+    "atl": 74.25,
+    "id": 23647686,
+    "name": "Five Hills Ride",
+    "tsb": -3.61,
+    "sufferScore": 102
+  },
+  {
+    "startDateLocal": "2012-10-03T17:03:55Z",
+    "ctl": 68.08,
+    "atl": 54.5,
+    "id": 23984821,
+    "name": "Woodland Park Bike Practice",
+    "tsb": 13.58,
+    "sufferScore": 23
+  },
+  {
+    "startDateLocal": "2012-10-04T07:15:05Z",
+    "ctl": 63.78,
+    "atl": 65.0,
+    "id": 23984832,
+    "name": "CBS Ride",
+    "tsb": -1.22,
+    "sufferScore": 53
+  },
+  {
+    "startDateLocal": "2012-10-06T14:40:40Z",
+    "ctl": 66.26,
+    "atl": 82.25,
+    "id": 24220222,
+    "name": "MFG CX #3 - Ride / Race / Shootout",
+    "tsb": -15.99,
+    "sufferScore": 128
+  },
+  {
+    "startDateLocal": "2012-10-07T13:41:22Z",
+    "ctl": 65.7,
+    "atl": 63.0,
+    "id": 24338804,
+    "name": "West Seattle Loop",
+    "tsb": 2.7,
+    "sufferScore": 51
+  },
+  {
+    "startDateLocal": "2012-10-10T08:41:21Z",
+    "ctl": 66.7,
+    "atl": 62.5,
+    "id": 24586403,
+    "name": "Abbv. Five Hills Ride",
+    "tsb": 4.2,
+    "sufferScore": 52
+  },
+  {
+    "startDateLocal": "2012-10-13T16:44:34Z",
+    "ctl": 62.32,
+    "atl": 53.75,
+    "id": 25346544,
+    "name": "Easy Ride",
+    "tsb": 8.57,
+    "sufferScore": 29
+  },
+  {
+    "startDateLocal": "2012-10-16T19:37:52Z",
+    "ctl": 61.94,
+    "atl": 39.25,
+    "id": 25346538,
+    "name": "Picking the wife up from work",
+    "tsb": 22.69,
+    "sufferScore": 10
+  },
+  {
+    "startDateLocal": "2012-10-17T17:42:55Z",
+    "ctl": 61.56,
+    "atl": 48.25,
+    "id": 25346546,
+    "name": "Night Ride",
+    "tsb": 13.31,
+    "sufferScore": 40
+  },
+  {
+    "startDateLocal": "2012-10-18T07:47:21Z",
+    "ctl": 61.06,
+    "atl": 38.25,
+    "id": 25497980,
+    "name": "Woodland Park Bike Practice",
+    "tsb": 22.81,
+    "sufferScore": 15
+  },
+  {
+    "startDateLocal": "2012-10-19T15:21:47Z",
+    "ctl": 61.38,
+    "atl": 31.75,
+    "id": 25497979,
+    "name": "Riding Roads that Don't Exist",
+    "tsb": 29.63,
+    "sufferScore": 31
+  },
+  {
+    "startDateLocal": "2012-10-20T11:03:58Z",
+    "ctl": 59.56,
+    "atl": 32.0,
+    "id": 25818041,
+    "name": "LBL Ride",
+    "tsb": 27.56,
+    "sufferScore": 38
+  },
+  {
+    "startDateLocal": "2012-10-21T09:01:17Z",
+    "ctl": 66.9,
+    "atl": 92.0,
+    "id": 25818043,
+    "name": "Race to the Canal",
+    "tsb": -25.1,
+    "sufferScore": 209
+  },
+  {
+    "startDateLocal": "2012-10-22T09:24:17Z",
+    "ctl": 62.26,
+    "atl": 45.5,
+    "id": 25818037,
+    "name": "LBL Ride",
+    "tsb": 16.76,
+    "sufferScore": 26
+  },
+  {
+    "startDateLocal": "2012-10-24T16:50:42Z",
+    "ctl": 62.08,
+    "atl": 44.0,
+    "id": 26055116,
+    "name": "Easy Ride",
+    "tsb": 18.08,
+    "sufferScore": 17
+  },
+  {
+    "startDateLocal": "2012-10-25T07:18:39Z",
+    "ctl": 63.76,
+    "atl": 54.25,
+    "id": 26055123,
+    "name": "CBS Ride",
+    "tsb": 9.51,
+    "sufferScore": 52
+  },
+  {
+    "startDateLocal": "2012-10-26T08:51:03Z",
+    "ctl": 56.04,
+    "atl": 42.75,
+    "id": 26259137,
+    "name": "Start dry, end wet",
+    "tsb": 13.29,
+    "sufferScore": 9
+  },
+  {
+    "startDateLocal": "2012-10-27T13:46:29Z",
+    "ctl": 58.52,
+    "atl": 67.5,
+    "id": 26259139,
+    "name": "MFG CX #5",
+    "tsb": -8.98,
+    "sufferScore": 84
+  },
+  {
+    "startDateLocal": "2012-10-28T15:17:08Z",
+    "ctl": 56.4,
+    "atl": 51.75,
+    "id": 26366290,
+    "name": "Easy Ride",
+    "tsb": 4.65,
+    "sufferScore": 27
+  },
+  {
+    "startDateLocal": "2012-10-30T07:43:19Z",
+    "ctl": 58.14,
+    "atl": 46.25,
+    "id": 26500240,
+    "name": "MASH SF Ride and more",
+    "tsb": 11.89,
+    "sufferScore": 65
+  },
+  {
+    "startDateLocal": "2012-11-01T07:31:03Z",
+    "ctl": 57.36,
+    "atl": 36.5,
+    "id": 26651785,
+    "name": "SF Ride",
+    "tsb": 20.86,
+    "sufferScore": 26
+  },
+  {
+    "startDateLocal": "2012-11-02T07:37:25Z",
+    "ctl": 52.36,
+    "atl": 35.25,
+    "id": 26730363,
+    "name": "SF Ride",
+    "tsb": 17.11,
+    "sufferScore": 21
+  },
+  {
+    "startDateLocal": "2012-11-03T16:37:16Z",
+    "ctl": 52.32,
+    "atl": 31.0,
+    "id": 27041202,
+    "name": "Easy Ride",
+    "tsb": 21.32,
+    "sufferScore": 19
+  },
+  {
+    "startDateLocal": "2012-11-04T12:55:29Z",
+    "ctl": 52.6,
+    "atl": 37.5,
+    "id": 27041210,
+    "name": "Perkins Loop",
+    "tsb": 15.1,
+    "sufferScore": 33
+  },
+  {
+    "startDateLocal": "2012-11-21T16:47:39Z",
+    "ctl": 52.36,
+    "atl": 27.75,
+    "id": 29024019,
+    "name": "Riding in the Dark",
+    "tsb": 24.61,
+    "sufferScore": 21
+  },
+  {
+    "startDateLocal": "2012-11-22T08:25:46Z",
+    "ctl": 54.66,
+    "atl": 50.25,
+    "id": 29024047,
+    "name": "South Side with Jason and Derek",
+    "tsb": 4.41,
+    "sufferScore": 87
+  },
+  {
+    "startDateLocal": "2012-11-25T11:23:17Z",
+    "ctl": 58.76,
+    "atl": 73.75,
+    "id": 29611915,
+    "name": "East Side Loop",
+    "tsb": -14.99,
+    "sufferScore": 145
+  },
+  {
+    "startDateLocal": "2012-11-27T08:13:35Z",
+    "ctl": 55.46,
+    "atl": 44.75,
+    "id": 29860535,
+    "name": "11/27/2012 Seattle, WA",
+    "tsb": 10.71,
+    "sufferScore": 29
+  },
+  {
+    "startDateLocal": "2012-11-28T07:54:32Z",
+    "ctl": 55.82,
+    "atl": 52.25,
+    "id": 30005865,
+    "name": "11/28/2012 Seattle, WA",
+    "tsb": 3.57,
+    "sufferScore": 47
+  },
+  {
+    "startDateLocal": "2012-12-01T07:31:51Z",
+    "ctl": 61.42,
+    "atl": 102.75,
+    "id": 30452523,
+    "name": "Out East with the guys",
+    "tsb": -41.33,
+    "sufferScore": 180
+  },
+  {
+    "startDateLocal": "2012-12-05T06:59:35Z",
+    "ctl": 60.32,
+    "atl": 81.25,
+    "id": 31066903,
+    "name": "Mercer Island",
+    "tsb": -20.93,
+    "sufferScore": 76
+  },
+  {
+    "startDateLocal": "2012-12-22T10:47:42Z",
+    "ctl": 63.28,
+    "atl": 105.0,
+    "id": 33532413,
+    "name": "Out East Searching for Sun",
+    "tsb": -41.72,
+    "sufferScore": 126
+  },
+  {
+    "startDateLocal": "2012-12-24T08:33:52Z",
+    "ctl": 68.7,
+    "atl": 135.75,
+    "id": 33855793,
+    "name": "Vashon with the boys",
+    "tsb": -67.05,
+    "sufferScore": 201
+  },
+  {
+    "startDateLocal": "2012-12-26T09:50:10Z",
+    "ctl": 66.8,
+    "atl": 90.75,
+    "id": 34075469,
+    "name": "Perkins Loop",
+    "tsb": -23.95,
+    "sufferScore": 57
+  },
+  {
+    "startDateLocal": "2012-12-27T09:37:30Z",
+    "ctl": 59.48,
+    "atl": 85.75,
+    "id": 34236027,
+    "name": "12/27/2012 Seattle, WA",
+    "tsb": -26.27,
+    "sufferScore": 34
+  },
+  {
+    "startDateLocal": "2012-12-29T09:46:35Z",
+    "ctl": 62.86,
+    "atl": 109.5,
+    "id": 34612107,
+    "name": "12/29/2012 Seattle, WA",
+    "tsb": -46.64,
+    "sufferScore": 105
+  },
+  {
+    "startDateLocal": "2012-12-30T09:39:38Z",
+    "ctl": 66.7,
+    "atl": 117.75,
+    "id": 34856257,
+    "name": "12/30/2012 Seattle, WA",
+    "tsb": -51.05,
+    "sufferScore": 150
+  },
+  {
+    "startDateLocal": "2013-01-01T12:33:46Z",
+    "ctl": 65.94,
+    "atl": 94.5,
+    "id": 35234089,
+    "name": "01/01/2013 Seattle, WA",
+    "tsb": -28.56,
+    "sufferScore": 63
+  },
+  {
+    "startDateLocal": "2013-01-02T06:46:20Z",
+    "ctl": 64.32,
+    "atl": 93.5,
+    "id": 35381013,
+    "name": "South Lake",
+    "tsb": -29.18,
+    "sufferScore": 80
+  },
+  {
+    "startDateLocal": "2013-01-03T08:08:15Z",
+    "ctl": 63.38,
+    "atl": 63.75,
+    "id": 35597971,
+    "name": "01/03/2013 Seattle, WA",
+    "tsb": -0.370000000000005,
+    "sufferScore": 33
+  },
+  {
+    "startDateLocal": "2013-01-05T09:11:42Z",
+    "ctl": 65.4,
+    "atl": 79.75,
+    "id": 36097013,
+    "name": "CBS Ride ++",
+    "tsb": -14.35,
+    "sufferScore": 85
+  },
+  {
+    "startDateLocal": "2013-01-06T10:39:59Z",
+    "ctl": 68.88,
+    "atl": 112.25,
+    "id": 36409795,
+    "name": "East Side",
+    "tsb": -43.37,
+    "sufferScore": 161
+  },
+  {
+    "startDateLocal": "2013-01-08T07:47:16Z",
+    "ctl": 64.12,
+    "atl": 68.25,
+    "id": 36771715,
+    "name": "SF Ride",
+    "tsb": -4.13,
+    "sufferScore": 21
+  },
+  {
+    "startDateLocal": "2013-01-09T07:56:49Z",
+    "ctl": 64.02,
+    "atl": 52.75,
+    "id": 36994106,
+    "name": "SF Ride",
+    "tsb": 11.27,
+    "sufferScore": 16
+  },
+  {
+    "startDateLocal": "2013-01-10T07:21:18Z",
+    "ctl": 63.3,
+    "atl": 52.25,
+    "id": 37100622,
+    "name": "SF Ride",
+    "tsb": 11.05,
+    "sufferScore": 29
+  },
+  {
+    "startDateLocal": "2013-01-11T07:29:00Z",
+    "ctl": 61.44,
+    "atl": 49.0,
+    "id": 37195430,
+    "name": "SF Ride",
+    "tsb": 12.44,
+    "sufferScore": 34
+  },
+  {
+    "startDateLocal": "2013-01-12T09:45:13Z",
+    "ctl": 61.8,
+    "atl": 55.0,
+    "id": 37337628,
+    "name": "CBS Ride ++",
+    "tsb": 6.8,
+    "sufferScore": 52
+  },
+  {
+    "startDateLocal": "2013-01-13T12:36:16Z",
+    "ctl": 63.02,
+    "atl": 55.75,
+    "id": 37471078,
+    "name": "Perkins and Innis",
+    "tsb": 7.27,
+    "sufferScore": 64
+  },
+  {
+    "startDateLocal": "2013-01-15T08:41:26Z",
+    "ctl": 62.8,
+    "atl": 41.75,
+    "id": 37671716,
+    "name": "01/15/2013 Seattle, WA",
+    "tsb": 21.05,
+    "sufferScore": 53
+  },
+  {
+    "startDateLocal": "2013-01-16T07:08:44Z",
+    "ctl": 65.12,
+    "atl": 51.5,
+    "id": 37729175,
+    "name": "Frozen Fog?",
+    "tsb": 13.62,
+    "sufferScore": 71
+  },
+  {
+    "startDateLocal": "2013-01-17T07:45:17Z",
+    "ctl": 64.72,
+    "atl": 50.25,
+    "id": 37821940,
+    "name": "CBS Ride",
+    "tsb": 14.47,
+    "sufferScore": 51
+  },
+  {
+    "startDateLocal": "2013-01-19T09:29:01Z",
+    "ctl": 67.76,
+    "atl": 72.0,
+    "id": 38029592,
+    "name": "CBS Ride ++",
+    "tsb": -4.24000000000001,
+    "sufferScore": 105
+  },
+  {
+    "startDateLocal": "2013-01-20T10:48:30Z",
+    "ctl": 66.54,
+    "atl": 57.5,
+    "id": 38178888,
+    "name": "Black Diamond Bike Practice 1",
+    "tsb": 9.03999999999999,
+    "sufferScore": 44
+  },
+  {
+    "startDateLocal": "2013-01-20T12:40:30Z",
+    "ctl": 66.36,
+    "atl": 53.75,
+    "id": 38178889,
+    "name": "Black Diamond Bike Practice 2",
+    "tsb": 12.61,
+    "sufferScore": 35
+  },
+  {
+    "startDateLocal": "2013-01-22T07:50:30Z",
+    "ctl": 62.62,
+    "atl": 53.75,
+    "id": 38347432,
+    "name": "01/22/2013 Seattle, WA",
+    "tsb": 8.87,
+    "sufferScore": 44
+  },
+  {
+    "startDateLocal": "2013-01-23T06:36:12Z",
+    "ctl": 64.1,
+    "atl": 61.5,
+    "id": 38446707,
+    "name": "Back to the Island",
+    "tsb": 2.59999999999999,
+    "sufferScore": 69
+  },
+  {
+    "startDateLocal": "2013-01-24T07:48:55Z",
+    "ctl": 64.66,
+    "atl": 54.0,
+    "id": 38540514,
+    "name": "CBS Ride",
+    "tsb": 10.66,
+    "sufferScore": 48
+  },
+  {
+    "startDateLocal": "2013-01-25T08:27:28Z",
+    "ctl": 63.04,
+    "atl": 42.25,
+    "id": 38627114,
+    "name": "01/25/2013 Seattle, WA",
+    "tsb": 20.79,
+    "sufferScore": 16
+  },
+  {
+    "startDateLocal": "2013-01-26T10:08:20Z",
+    "ctl": 64.62,
+    "atl": 43.75,
+    "id": 38760590,
+    "name": "CBS MTB Ride - Black Diamond",
+    "tsb": 20.87,
+    "sufferScore": 46
+  },
+  {
+    "startDateLocal": "2013-01-27T10:25:08Z",
+    "ctl": 68.58,
+    "atl": 79.25,
+    "id": 38892181,
+    "name": "I left my snorkel at home.",
+    "tsb": -10.67,
+    "sufferScore": 146
+  },
+  {
+    "startDateLocal": "2013-01-29T08:26:09Z",
+    "ctl": 66.62,
+    "atl": 56.25,
+    "id": 39066703,
+    "name": "01/29/2013 Seattle, WA",
+    "tsb": 10.37,
+    "sufferScore": 48
+  },
+  {
+    "startDateLocal": "2013-01-30T06:40:44Z",
+    "ctl": 66.82,
+    "atl": 60.25,
+    "id": 39175100,
+    "name": "Perkins Innis",
+    "tsb": 6.56999999999999,
+    "sufferScore": 58
+  },
+  {
+    "startDateLocal": "2013-01-31T07:51:31Z",
+    "ctl": 67.8,
+    "atl": 59.5,
+    "id": 39284124,
+    "name": "CBS Ride",
+    "tsb": 8.3,
+    "sufferScore": 58
+  },
+  {
+    "startDateLocal": "2013-02-01T08:27:31Z",
+    "ctl": 67.06,
+    "atl": 47.25,
+    "id": 39375915,
+    "name": "02/01/2013 Seattle, WA",
+    "tsb": 19.81,
+    "sufferScore": 21
+  },
+  {
+    "startDateLocal": "2013-02-02T09:50:39Z",
+    "ctl": 69.46,
+    "atl": 73.25,
+    "id": 39528382,
+    "name": "CBS Ride-ish",
+    "tsb": -3.78999999999999,
+    "sufferScore": 92
+  },
+  {
+    "startDateLocal": "2013-02-03T10:12:09Z",
+    "ctl": 71.88,
+    "atl": 85.75,
+    "id": 39698291,
+    "name": "Rattlesnake Mtn Bike Practice",
+    "tsb": -13.87,
+    "sufferScore": 115
+  },
+  {
+    "startDateLocal": "2013-02-05T16:48:20Z",
+    "ctl": 71.24,
+    "atl": 53.5,
+    "id": 39923554,
+    "name": "Rainy Night Ride",
+    "tsb": 17.74,
+    "sufferScore": 34
+  },
+  {
+    "startDateLocal": "2013-02-07T07:47:03Z",
+    "ctl": 70.78,
+    "atl": 61.5,
+    "id": 40091755,
+    "name": "CBS Ride",
+    "tsb": 9.28,
+    "sufferScore": 60
+  },
+  {
+    "startDateLocal": "2013-02-09T10:19:57Z",
+    "ctl": 70.58,
+    "atl": 75.75,
+    "id": 40333773,
+    "name": "Tramway Climb Out and Back",
+    "tsb": -5.17,
+    "sufferScore": 99
+  },
+  {
+    "startDateLocal": "2013-02-10T10:18:11Z",
+    "ctl": 72.82,
+    "atl": 85.25,
+    "id": 40503281,
+    "name": "Up to 49 Palms Canyon",
+    "tsb": -12.43,
+    "sufferScore": 113
+  },
+  {
+    "startDateLocal": "2013-02-11T10:19:24Z",
+    "ctl": 74.96,
+    "atl": 98.0,
+    "id": 40594891,
+    "name": "To the Salton Sea",
+    "tsb": -23.04,
+    "sufferScore": 122
+  },
+  {
+    "startDateLocal": "2013-02-12T16:22:26Z",
+    "ctl": 68.9,
+    "atl": 63.0,
+    "id": 40713165,
+    "name": "Recovery Ride",
+    "tsb": 5.90000000000001,
+    "sufferScore": 15
+  },
+  {
+    "startDateLocal": "2013-02-13T09:27:23Z",
+    "ctl": 84.92,
+    "atl": 198.25,
+    "id": 42342913,
+    "name": "San Jacinto Mountains Loop",
+    "tsb": -113.33,
+    "sufferScore": 424
+  },
+  {
+    "startDateLocal": "2013-02-14T10:10:34Z",
+    "ctl": 78.56,
+    "atl": 127.0,
+    "id": 40920896,
+    "name": "Palm Springs Loop",
+    "tsb": -48.44,
+    "sufferScore": 106
+  },
+  {
+    "startDateLocal": "2013-02-15T10:30:41Z",
+    "ctl": 77.04,
+    "atl": 139.25,
+    "id": 41029409,
+    "name": "Up to Cottonwood Spring Oasis",
+    "tsb": -62.21,
+    "sufferScore": 128
+  },
+  {
+    "startDateLocal": "2013-02-16T10:56:03Z",
+    "ctl": 81.18,
+    "atl": 164.0,
+    "id": 41169891,
+    "name": "Banning - Hemet - Mtn Center - Palm Springs",
+    "tsb": -82.82,
+    "sufferScore": 188
+  },
+  {
+    "startDateLocal": "2013-02-17T16:00:41Z",
+    "ctl": 76.7,
+    "atl": 109.75,
+    "id": 41338794,
+    "name": "Back in Seattle",
+    "tsb": -33.05,
+    "sufferScore": 13
+  },
+  {
+    "startDateLocal": "2013-02-18T12:11:55Z",
+    "ctl": 74.88,
+    "atl": 100.25,
+    "id": 41450462,
+    "name": "Woodland Park Bike Practice",
+    "tsb": -25.37,
+    "sufferScore": 20
+  },
+  {
+    "startDateLocal": "2013-02-19T08:12:34Z",
+    "ctl": 73.22,
+    "atl": 106.25,
+    "id": 41532834,
+    "name": "02/19/2013 Seattle, WA",
+    "tsb": -33.03,
+    "sufferScore": 35
+  },
+  {
+    "startDateLocal": "2013-02-21T07:58:44Z",
+    "ctl": 73.88,
+    "atl": 76.25,
+    "id": 41749627,
+    "name": "CBS Ride",
+    "tsb": -2.37,
+    "sufferScore": 68
+  },
+  {
+    "startDateLocal": "2013-02-23T10:06:31Z",
+    "ctl": 74.32,
+    "atl": 80.25,
+    "id": 42019572,
+    "name": "CBS MTB - Dash Point",
+    "tsb": -5.93000000000001,
+    "sufferScore": 90
+  },
+  {
+    "startDateLocal": "2013-02-23T12:36:38Z",
+    "ctl": 76.66,
+    "atl": 82.75,
+    "id": 42019571,
+    "name": "Dash Point, Take 2",
+    "tsb": -6.09,
+    "sufferScore": 109
+  },
+  {
+    "startDateLocal": "2013-02-24T09:06:39Z",
+    "ctl": 80.08,
+    "atl": 100.25,
+    "id": 42181982,
+    "name": "Snoqualmie Falls",
+    "tsb": -20.17,
+    "sufferScore": 182
+  },
+  {
+    "startDateLocal": "2013-02-26T16:43:51Z",
+    "ctl": 77.42,
+    "atl": 89.0,
+    "id": 42401147,
+    "name": "Night Intervals",
+    "tsb": -11.58,
+    "sufferScore": 98
+  },
+  {
+    "startDateLocal": "2013-02-27T07:51:12Z",
+    "ctl": 77.76,
+    "atl": 85.5,
+    "id": 42460200,
+    "name": "02/27/2013 Seattle, WA",
+    "tsb": -7.73999999999999,
+    "sufferScore": 66
+  },
+  {
+    "startDateLocal": "2013-02-28T07:46:22Z",
+    "ctl": 78.76,
+    "atl": 89.5,
+    "id": 42574981,
+    "name": "CBS Ride - Wet and Wild Edition",
+    "tsb": -10.74,
+    "sufferScore": 67
+  },
+  {
+    "startDateLocal": "2013-03-01T16:02:47Z",
+    "ctl": 77.9,
+    "atl": 73.5,
+    "id": 42875546,
+    "name": "03/01/2013 Seattle, WA",
+    "tsb": 4.40000000000001,
+    "sufferScore": 24
+  },
+  {
+    "startDateLocal": "2013-03-02T14:43:56Z",
+    "ctl": 78.26,
+    "atl": 73.5,
+    "id": 42875547,
+    "name": "03/02/2013 Seattle, WA",
+    "tsb": 4.75999999999999,
+    "sufferScore": 42
+  },
+  {
+    "startDateLocal": "2013-03-06T06:40:29Z",
+    "ctl": 80.26,
+    "atl": 84.0,
+    "id": 43392697,
+    "name": "03/06/2013 Seattle, WA",
+    "tsb": -3.73999999999999,
+    "sufferScore": 93
+  },
+  {
+    "startDateLocal": "2013-03-07T17:01:50Z",
+    "ctl": 79.96,
+    "atl": 69.0,
+    "id": 43561113,
+    "name": "Intervals",
+    "tsb": 10.96,
+    "sufferScore": 78
+  },
+  {
+    "startDateLocal": "2013-03-08T16:56:09Z",
+    "ctl": 78.92,
+    "atl": 48.5,
+    "id": 43668680,
+    "name": "03/08/2013 Seattle, WA",
+    "tsb": 30.42,
+    "sufferScore": 26
+  },
+  {
+    "startDateLocal": "2013-03-09T09:36:29Z",
+    "ctl": 82.12,
+    "atl": 83.75,
+    "id": 43785869,
+    "name": "CBS Ride ++",
+    "tsb": -1.63,
+    "sufferScore": 137
+  },
+  {
+    "startDateLocal": "2013-03-10T09:06:35Z",
+    "ctl": 90.82,
+    "atl": 141.5,
+    "id": 43976704,
+    "name": "Gran Fondo Ephrata",
+    "tsb": -50.68,
+    "sufferScore": 278
+  },
+  {
+    "startDateLocal": "2013-03-10T14:09:37Z",
+    "ctl": 82.36,
+    "atl": 70.25,
+    "id": 43976668,
+    "name": "Ephrata Spin",
+    "tsb": 12.11,
+    "sufferScore": 2
+  },
+  {
+    "startDateLocal": "2013-03-12T07:00:49Z",
+    "ctl": 86.56,
+    "atl": 106.5,
+    "id": 44138747,
+    "name": "Wind + Intervals = Windervals",
+    "tsb": -19.94,
+    "sufferScore": 114
+  },
+  {
+    "startDateLocal": "2013-03-13T06:13:03Z",
+    "ctl": 90.18,
+    "atl": 120.25,
+    "id": 44268992,
+    "name": "03/13/2013 Seattle, WA",
+    "tsb": -30.07,
+    "sufferScore": 148
+  },
+  {
+    "startDateLocal": "2013-03-14T07:47:46Z",
+    "ctl": 88.32,
+    "atl": 94.75,
+    "id": 44390458,
+    "name": "CBS Ride",
+    "tsb": -6.43000000000001,
+    "sufferScore": 55
+  },
+  {
+    "startDateLocal": "2013-03-14T17:49:44Z",
+    "ctl": 88.64,
+    "atl": 104.0,
+    "id": 44454806,
+    "name": "More Windervals with added Sun and Rain",
+    "tsb": -15.36,
+    "sufferScore": 71
+  },
+  {
+    "startDateLocal": "2013-03-15T20:26:09Z",
+    "ctl": 86.52,
+    "atl": 76.25,
+    "id": 44574848,
+    "name": "Worked late, recovery stroll in the dark",
+    "tsb": 10.27,
+    "sufferScore": 14
+  },
+  {
+    "startDateLocal": "2013-03-16T09:14:58Z",
+    "ctl": 95.5,
+    "atl": 120.5,
+    "id": 44677240,
+    "name": "CBS Ride ++",
+    "tsb": -25.0,
+    "sufferScore": 218
+  },
+  {
+    "startDateLocal": "2013-03-17T11:35:46Z",
+    "ctl": 96.22,
+    "atl": 121.5,
+    "id": 44867933,
+    "name": "Rattlesnake Mtn Bike Practice",
+    "tsb": -25.28,
+    "sufferScore": 156
+  },
+  {
+    "startDateLocal": "2013-03-19T07:20:17Z",
+    "ctl": 91.92,
+    "atl": 84.75,
+    "id": 45062222,
+    "name": "SF Ride",
+    "tsb": 7.17,
+    "sufferScore": 39
+  },
+  {
+    "startDateLocal": "2013-03-20T07:11:40Z",
+    "ctl": 92.0,
+    "atl": 74.5,
+    "id": 45177941,
+    "name": "SF Ride",
+    "tsb": 17.5,
+    "sufferScore": 43
+  },
+  {
+    "startDateLocal": "2013-03-21T07:19:58Z",
+    "ctl": 90.86,
+    "atl": 70.25,
+    "id": 45296777,
+    "name": "SF Ride",
+    "tsb": 20.61,
+    "sufferScore": 35
+  },
+  {
+    "startDateLocal": "2013-03-22T06:50:03Z",
+    "ctl": 90.68,
+    "atl": 62.75,
+    "id": 45409533,
+    "name": "SF Ride",
+    "tsb": 27.93,
+    "sufferScore": 26
+  },
+  {
+    "startDateLocal": "2013-03-23T09:45:33Z",
+    "ctl": 91.32,
+    "atl": 76.0,
+    "id": 45557463,
+    "name": "CBS Ride",
+    "tsb": 15.32,
+    "sufferScore": 58
+  },
+  {
+    "startDateLocal": "2013-03-24T11:34:33Z",
+    "ctl": 92.06,
+    "atl": 71.75,
+    "id": 45742859,
+    "name": "Black Diamond Bike Practice with Grayson",
+    "tsb": 20.31,
+    "sufferScore": 95
+  },
+  {
+    "startDateLocal": "2013-03-26T18:43:13Z",
+    "ctl": 91.88,
+    "atl": 62.0,
+    "id": 46005623,
+    "name": "Intervals",
+    "tsb": 29.88,
+    "sufferScore": 86
+  },
+  {
+    "startDateLocal": "2013-03-27T06:27:31Z",
+    "ctl": 94.26,
+    "atl": 74.75,
+    "id": 46065802,
+    "name": "03/27/2013 Seattle, WA",
+    "tsb": 19.51,
+    "sufferScore": 107
+  },
+  {
+    "startDateLocal": "2013-03-28T16:14:25Z",
+    "ctl": 95.22,
+    "atl": 81.25,
+    "id": 46256244,
+    "name": "Intervals ++",
+    "tsb": 13.97,
+    "sufferScore": 106
+  },
+  {
+    "startDateLocal": "2013-03-29T16:33:08Z",
+    "ctl": 91.7,
+    "atl": 61.0,
+    "id": 46415329,
+    "name": "03/29/2013 Seattle, WA",
+    "tsb": 30.7,
+    "sufferScore": 28
+  },
+  {
+    "startDateLocal": "2013-03-30T10:18:15Z",
+    "ctl": 91.4,
+    "atl": 73.25,
+    "id": 46561575,
+    "name": "CBS MTB Ride - Tapeworm",
+    "tsb": 18.15,
+    "sufferScore": 62
+  },
+  {
+    "startDateLocal": "2013-03-30T12:44:37Z",
+    "ctl": 94.58,
+    "atl": 112.75,
+    "id": 46561582,
+    "name": "Tapeworm Take 2, plus Squak",
+    "tsb": -18.17,
+    "sufferScore": 172
+  },
+  {
+    "startDateLocal": "2013-03-31T12:07:30Z",
+    "ctl": 100.4,
+    "atl": 137.75,
+    "id": 46726149,
+    "name": "Big ol' East Side Loop with the Boys",
+    "tsb": -37.35,
+    "sufferScore": 218
+  },
+  {
+    "startDateLocal": "2013-04-02T15:45:12Z",
+    "ctl": 90.06,
+    "atl": 107.25,
+    "id": 47017660,
+    "name": "Intervals",
+    "tsb": -17.19,
+    "sufferScore": 93
+  },
+  {
+    "startDateLocal": "2013-04-03T06:34:00Z",
+    "ctl": 88.56,
+    "atl": 96.25,
+    "id": 47098189,
+    "name": "04/03/2013 Seattle, WA",
+    "tsb": -7.69,
+    "sufferScore": 67
+  },
+  {
+    "startDateLocal": "2013-04-04T06:26:24Z",
+    "ctl": 89.8,
+    "atl": 114.0,
+    "id": 47228260,
+    "name": "Pukervals + CBS Ride",
+    "tsb": -24.2,
+    "sufferScore": 129
+  },
+  {
+    "startDateLocal": "2013-04-05T08:54:34Z",
+    "ctl": 83.7,
+    "atl": 86.0,
+    "id": 47354497,
+    "name": "Recovery",
+    "tsb": -2.30000000000001,
+    "sufferScore": 20
+  },
+  {
+    "startDateLocal": "2013-04-06T09:53:23Z",
+    "ctl": 90.48,
+    "atl": 133.0,
+    "id": 47569067,
+    "name": "CBS Ride ++",
+    "tsb": -42.52,
+    "sufferScore": 163
+  },
+  {
+    "startDateLocal": "2013-04-07T09:41:11Z",
+    "ctl": 86.48,
+    "atl": 78.0,
+    "id": 47754922,
+    "name": "Henry's Ridge Warm-up",
+    "tsb": 8.48,
+    "sufferScore": 12
+  },
+  {
+    "startDateLocal": "2013-04-07T10:16:00Z",
+    "ctl": 92.32,
+    "atl": 107.5,
+    "id": 47754934,
+    "name": "Budu Series - Henry's Ridge",
+    "tsb": -15.18,
+    "sufferScore": 157
+  },
+  {
+    "startDateLocal": "2013-04-09T16:50:41Z",
+    "ctl": 92.38,
+    "atl": 98.25,
+    "id": 48092542,
+    "name": "One big ass interval.",
+    "tsb": -5.87,
+    "sufferScore": 111
+  },
+  {
+    "startDateLocal": "2013-04-10T16:21:47Z",
+    "ctl": 91.82,
+    "atl": 92.75,
+    "id": 48245806,
+    "name": "Perkins Loop with the boys",
+    "tsb": -0.930000000000007,
+    "sufferScore": 83
+  },
+  {
+    "startDateLocal": "2013-04-11T06:26:25Z",
+    "ctl": 92.56,
+    "atl": 101.25,
+    "id": 48312877,
+    "name": "Intervals + CBS Ride",
+    "tsb": -8.69,
+    "sufferScore": 120
+  },
+  {
+    "startDateLocal": "2013-04-12T07:38:51Z",
+    "ctl": 87.72,
+    "atl": 77.5,
+    "id": 48442935,
+    "name": "04/12/2013 Seattle, WA",
+    "tsb": 10.22,
+    "sufferScore": 25
+  }
+]
