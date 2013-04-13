@@ -44,12 +44,7 @@ CTL_ALPHA = 0.98
 
 def rate(alpha, rate, total, interval)
   instant = total / interval
-  new_rate = rate + (alpha * (instant - rate))
-  new_rate
-end
-
-def update_total(total, value)
-  total + value
+  rate + (alpha * (instant - rate))
 end
 
 def list_sum(list)
@@ -89,6 +84,7 @@ def plot(suffer_rides)
   tsb_series = []
 
   # get the stuff we want to plot
+  # not sure if there is a better way to do this
   suffer_rides.each do |ride|
     atl_series << ride["atl"]
     ctl_series << ride["ctl"]
@@ -158,20 +154,18 @@ def get_ride_date(ride_id)
 end
 
 def read_json(file)
-  json = File.read(file)
-  data = JSON.parse(json)
-  data
+  JSON.parse(File.read(file))
 end
 
 def write_json(data)
-  json = JSON.pretty_generate(data)
-  File.open("./suffer_mgmt_data_#{Time.now.to_i}.json", 'w') {|f| f.write(json) }
+  File.open("./suffer_mgmt_data_#{Time.now.to_i}.json", 'w') do |f| 
+    f.write(JSON.pretty_generate(data)) 
+  end
 end
 
 def main()
   if ARGV[0]
-    data = read_json(ARGV[0])
-    plot(data)
+    plot(read_json(ARGV[0]))
   else
     atl = {"values" => []}
     ctl = {"values" => []}
@@ -201,6 +195,7 @@ def main()
         atl = ewma(ATL_ALPHA, ATL_DAYS, ride["sufferScore"], atl["values"])
         ctl = ewma(CTL_ALPHA, CTL_DAYS, ride["sufferScore"], ctl["values"])
 
+        # save each iteration to the ride it came from
         ride.store("atl", atl["rate"])
         ride.store("ctl", ctl["rate"])
         ride.store("tsb", ctl["rate"] - atl["rate"])
