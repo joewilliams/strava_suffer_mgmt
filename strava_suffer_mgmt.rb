@@ -1,5 +1,30 @@
 #! /usr/bin/env ruby
 
+## This code is available as Open Source Software under the MIT license.
+##
+## Copyright 2013, Joe Williams <joe@joetify.com>
+##
+## Permission is hereby granted, free of charge, to any person
+## obtaining a copy of this software and associated documentation
+## files (the "Software"), to deal in the Software without
+## restriction, including without limitation the rights to use,
+## copy, modify, merge, publish, distribute, sublicense, and/or sell
+## copies of the Software, and to permit persons to whom the
+## Software is furnished to do so, subject to the following
+## conditions:
+##
+## The above copyright notice and this permission notice shall be
+## included in all copies or substantial portions of the Software.
+##
+## THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+## EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+## OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+## NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+## HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+## WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+## FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+## OTHER DEALINGS IN THE SOFTWARE.
+
 require 'rubygems'
 require 'yajl/json_gem'
 require 'excon'
@@ -63,6 +88,7 @@ def plot(suffer_rides)
   ctl_series = []
   tsb_series = []
 
+  # get the stuff we want to plot
   suffer_rides.each do |ride|
     atl_series << ride["atl"]
     ctl_series << ride["ctl"]
@@ -104,6 +130,33 @@ def plot(suffer_rides)
   end
 end
 
+def get_suffer_score(ride_id)
+  suffer_score = nil
+
+  # first lets get the suffer scores by abusing public activity pages
+  doc = Nokogiri::HTML(Excon.get(URI.escape("#{STRAVA_URL}/activities/#{ride_id}")).body)
+
+  # hacky but it works
+  if doc.at_css('.suffer-score')
+    doc.at_css('.suffer-score').children.each do |kid|
+      if kid.children
+        if kid.children.text
+          if kid.children.text.to_i > 0
+             suffer_score = kid.children.text.to_i
+          end
+        end
+      end
+    end
+  end
+
+  suffer_score
+end
+
+def get_ride_date(ride_id)
+  response = Excon.get(URI.escape("#{STRAVA_URL}/#{STRAVA_API}/rides/#{ride_id}"))
+  JSON.parse(response.body)["ride"]["startDateLocal"]
+end
+
 def read_json(file)
   json = File.read(file)
   data = JSON.parse(json)
@@ -132,23 +185,16 @@ def main()
     rides =  get_rides(config["athlete_id"], config["start_date"])
 
     rides.each do |ride|
-      # first lets get the suffer scores by abusing public activity pages
-      doc = Nokogiri::HTML(Excon.get(URI.escape("#{STRAVA_URL}/activities/#{ride["id"]}")).body)
 
-      # hacky but it works
-      if doc.at_css('.suffer-score')
-        doc.at_css('.suffer-score').children.each do |kid|
-          if kid.children
-            suffer_int = kid.children.text.to_i
-            if suffer_int > 0
-              ride.store("sufferScore", suffer_int)
-            end
-          end
-        end
+      # get the suffer score
+      suffer_score = get_suffer_score(ride["id"])
+
+      if suffer_score
+        # store the suffer score
+        ride.store("sufferScore", suffer_score)
 
         # since the activity has a suffer score now lets get the date
-        response = Excon.get(URI.escape("#{STRAVA_URL}/#{STRAVA_API}/rides/#{ride["id"]}"))
-        date = JSON.parse(response.body)["ride"]["startDateLocal"]
+        date = get_ride_date(ride["id"])
         ride.store("startDateLocal", date)
 
         # use the computer to calculate ewma's of your suffer scores
