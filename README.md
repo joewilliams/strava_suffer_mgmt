@@ -7,7 +7,7 @@ This script takes Strava suffer scores from your last 200 rides from a start dat
 
 The script produces a gnuplot that looks like:
 
-![](https://something)
+![](https://github.com/joewilliams/strava_suffer_mgmt/blob/master/examples/2013-04-12_at_11.27.04_PM.png)
 
 It'll also write a json file containing all the data:
 
