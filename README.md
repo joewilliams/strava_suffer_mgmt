@@ -58,6 +58,8 @@ After you run it once, you can run it again to plot the data you collected the l
 
 ## License
 
+This code is available as Open Source Software under the MIT license.
+
 Copyright 2013, Joe Williams <joe@joetify.com>
 
 Permission is hereby granted, free of charge, to any person
