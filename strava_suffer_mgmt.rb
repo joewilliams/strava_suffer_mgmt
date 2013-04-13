@@ -80,7 +80,7 @@ def get_rides(athlete_id, start_date)
     rides = rides + data
   end
 
-  rides.reverse!
+  rides.reverse
 end
 
 def plot(suffer_rides)
