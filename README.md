@@ -3,7 +3,7 @@
 This script takes Strava suffer scores from your last 200 rides from a start date and creates a chart similar to but not exactly like:
 
 * [TrainingPeaks Performance Management Chart](http://home.trainingpeaks.com/articles/cycling/what-is-the-performance-management-chart.aspx)
-* [Fitness & Freshness Chart](http://blog.strava.com/new-premium-feature-fitness-freshness-for-power-meter-users-5742/)
+* [Strava Fitness & Freshness Chart](http://blog.strava.com/new-premium-feature-fitness-freshness-for-power-meter-users-5742/)
 
 The script produces a gnuplot that looks like:
 
